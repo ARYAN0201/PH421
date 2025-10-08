@@ -1,6 +1,6 @@
 __pycache__/
 *.pkl
-*.txt
+*esol_lgb.txt
 *.log
 *.DS_Store
 .phenv/
